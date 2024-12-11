@@ -1,6 +1,6 @@
 # SYSU_search
-数据结构大作业
-└── Yat-Search-Engine
+SYSU_Search
+
     ├── CMakeLists.txt          # CMake 配置文件
     ├── include                 # 存放头文件的目录
     │    ├── RegexSearch.h      # 正则搜索相关的头文件
